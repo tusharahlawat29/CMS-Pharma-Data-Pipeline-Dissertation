@@ -1,7 +1,7 @@
 # CMS Pharma Data Pipeline — Dissertation Practical Work
 
 This repository contains the technical implementation supporting the dissertation
-"[your dissertation title]" submitted to BSBI/UCA.
+"Architecting an Automated Cloud Data Pipeline for Pharmaceutical Operations Controlling and Inventory Analytics Using Azure Databricks" submitted to BSBI/UCA.
 
 ## Contents
 - `01_notebooks/` — Databricks notebooks implementing the Bronze-Silver-Gold
